@@ -1,1 +1,2 @@
 # Networking-Practice-Projects
+Completed hands-on networking labs and projects using Cisco Packet Tracer to strengthen practical networking skills. Gained experience in network design, IP addressing, subnetting, router and switch configuration, VLAN implementation, and network troubleshooting. Built and tested small-scale network topologies to simulate real-world networking environments and verify end-to-end connectivity.
